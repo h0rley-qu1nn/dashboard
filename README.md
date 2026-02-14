@@ -72,8 +72,3 @@ To modify the sample data, edit the `generateMockData()` function. To adjust the
 - Firefox (latest)
 - Safari (latest)
 - Mobile browsers (iOS Safari, Chrome for Android)
-
----
-
-**FashionFlow Pro - NEON OCEAN**  
-*Where deep waters meet electric dreams* 🌊✨
